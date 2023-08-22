@@ -1,16 +1,16 @@
 {
-  "name": "api-service",
+  "name": "nuxt3-api",
   "version": "0.1.0",
   "packageManager": "pnpm@8.3.1",
   "description": "基于 Nuxt 搭建的 API 接口服务网站",
   "author": {
-    "url": "https://kuizuo.cn",
-    "email": "hi@kuizuo.cn",
-    "name": "Kuizuo"
+    "url": "",
+    "email": "wosqqachen@qq.com",
+    "name": "wosqqachen"
   },
   "license": "MIT",
   "repository": {
-    "url": "https://github.com/kuizuo/api-service",
+    "url": "",
     "type": "git"
   },
   "scripts": {

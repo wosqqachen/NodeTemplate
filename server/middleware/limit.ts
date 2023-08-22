@@ -1,6 +1,6 @@
 import { RLWrapperBlackAndWhite, RateLimiterMemory } from 'rate-limiter-flexible'
 import { getIP, getUrlId } from '~~/utils'
-
+// 接口限流
 const whiteList = ['count']
 
 const rateLimiter = new RLWrapperBlackAndWhite({
