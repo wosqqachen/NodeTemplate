@@ -1,0 +1,14 @@
+node_modules/**
+dist/*
+public/*
+.local
+.output.js
+.yarnrc
+.npmrc
+.husky
+.vscode
+.nuxt
+
+
+**/*.svg
+**/*.sh
