@@ -1,0 +1,17 @@
+{
+  "prettier.enable": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "files.associations": {
+    "*.css": "postcss"
+  },
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "emmet.includeLanguages": {
+    "postcss": "css"
+  },
+  "editor.formatOnSave": true,
+  "discord.enabled": true
+}
